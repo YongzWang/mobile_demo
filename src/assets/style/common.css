@@ -1,0 +1,11 @@
+html,body,p{
+    margin: 0;
+    padding: 0;
+}
+img{
+    display: block;
+}
+div,img,span,input,b,p,i,section,ul,li,video,a,label,form,input,select,option,button{
+    box-sizing: border-box;
+}
+
